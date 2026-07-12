@@ -55,7 +55,7 @@
     color: #00e8f0;
 }
 
-.nav-cta {
+.nav-reg {
     background: #3d5afe;
     color: #fffdfd;
     text-decoration: none;
@@ -67,7 +67,7 @@
     display: inline-block;
 }
 
-.nav-cta:hover {
+.nav-reg:hover {
   color: black;
     background: #e78b13;
     transform: translateY(-1px);
@@ -75,7 +75,6 @@
 
 
      /* Navbar style End */
-
 
      /* hero section style start */
 
@@ -131,7 +130,7 @@
     margin-right:auto;
   }
  
-  .hero-cta{
+  .hero-reg2{
     position: absolute;
     bottom: 80px;
     left: 50%;
@@ -147,7 +146,7 @@
     text-decoration: none;
   }
 
-  .hero-cta:hover{
+  .hero-reg2:hover{
     background: #d48918;
     transform: translateX(-50%) translateY(-2px);
     box-shadow: 0 12px 30px rgba(3, 44, 248, 0.45);
@@ -262,11 +261,11 @@
 }
 
 .plan .plan-name {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 700;
   letter-spacing:0.08em;
   text-transform: uppercase;
-  color: #000000;
+  color: #da4206;
   margin-bottom: 20px;
 }
 
@@ -279,7 +278,7 @@
 }
 
 .plan .price-note {
-  font-size: 14px;
+  font-size: 16px;
   color: #050101;
   margin-bottom: 20px;
 }
